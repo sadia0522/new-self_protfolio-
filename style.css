@@ -24,6 +24,7 @@ nav ul li a{
     width: 100%;
     max-width: 450px;
     background: none;
+    height: 100%;
   
 }
 .hero-content-wrapper h1{
@@ -76,12 +77,12 @@ nav ul li a{
 .about-img-wrapper{
     display: flex;
     justify-content: center;
-
     
 }
 .about-img-wrapper img{
     width: 100%;
     max-width: 500px;
+    height: 100%;
 }
 .about-content-wrapper{
     width: 40%;
